@@ -37,7 +37,7 @@
         </div>
       </div>
 
-      <img src="../assets/img/Crema.jpeg" class="w-72 rounded-lg">
+      <img src="../assets/img/crema.jpeg" class="w-72 rounded-lg">
     
     </div>
   </template>
