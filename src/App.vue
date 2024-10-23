@@ -113,5 +113,9 @@ const showCremaCatalana = () => {
     width: 1000px;
     height: 1100px;
   }
+  .bouton {
+    padding: 12px 32px;
+    font-size: 16px;
+  }
 }
 </style>
