@@ -1,0 +1,237 @@
+{
+    "tortilla": {
+      "titre": "Tortilla",
+      "servir": "Serves 4",
+      "ingredients": [
+        "4 large potatoes (about 800g)",
+        "6 eggs",
+        "1 onion (optional)",
+        "Olive oil",
+        "Salt"
+      ],
+      "instructions": [
+        {
+          "etape": 1,
+          "description": "Prepare the ingredients: Peel the potatoes and cut them into slices or small cubes (according to your preference). If using an onion, slice it thinly."
+        },
+        {
+          "etape": 2,
+          "description": "In a large skillet, heat a good amount of olive oil over medium heat. Add the potatoes and onion (if used). Lightly salt. Cook the potatoes gently, stirring occasionally, until tender (about 15-20 minutes)."
+        },
+        {
+          "etape": 3,
+          "description": "While the potatoes are cooking, beat the eggs in a large bowl. Add a pinch of salt."
+        },
+        {
+          "etape": 4,
+          "description": "Once the potatoes are cooked, drain them to remove excess oil and add them to the bowl with the beaten eggs. Gently mix to coat the potatoes well with the eggs."
+        },
+        {
+          "etape": 5,
+          "description": "In the same skillet (remove excess oil if necessary), add a little olive oil and heat over medium heat. Pour the potato and egg mixture into the skillet and cook for about 5 minutes, until the bottom is nicely browned."
+        },
+        {
+          "etape": 6,
+          "description": "To flip the tortilla, place a large flat plate over the skillet and carefully turn it over. Slide the tortilla from the plate back into the skillet to cook the other side. Cook for another 3-5 minutes until the other side is browned."
+        },
+        {
+          "etape": 7,
+          "description": "Once cooked, remove the tortilla from the skillet and let it rest for a few minutes before cutting it into pieces. The tortilla can be served warm, at room temperature, or cold."
+        }
+      ],
+      "trucs": [
+        "Variations: You can add peppers, spinach, or even chorizo to vary the flavors.",
+        "Cooking: The tortilla can be cooked more or less on the inside according to preferences; some like it a bit runny."
+      ],
+      "note": "The Tortilla Española is a highly appreciated dish in Spain and around the world. It is an excellent choice for a light meal, brunch, or even an appetizer!"
+    },
+
+
+    
+    "paella": {
+      "titre": "Paella",
+      "servir": "For 4 to 6 people",
+      "ingredients": [
+        "300g of round rice (bomba type)",
+        "600g of chicken pieces",
+        "200g of rabbit",
+        "150g of flat green beans (judías verdes)",
+        "100g of white beans (garrofó)",
+        "1 tomato",
+        "1 red bell pepper",
+        "2 cloves of garlic",
+        "1 pinch of saffron",
+        "1 teaspoon of paprika",
+        "1.2L of chicken broth",
+        "Olive oil",
+        "Salt"
+      ],
+      "instructions": [
+        {
+          "etape": "1",
+          "description": "In a large paella pan, heat some olive oil over medium heat. Sauté the chicken, rabbit pieces until golden brown on all sides and Add the green beans and cook with the meat for a few minutes. Then, add the red bell pepper cut into strips and the chopped garlic. Sauté everything."
+        },
+        {
+          "etape": "2",
+          "description": "Grate the tomato and add it to the pan with a teaspoon of paprika. Mix well and let it cook for a few minutes."
+        },
+        {
+          "etape": "3",
+          "description": "Add the rice to the pan and mix to coat it well with the mixture. Add the saffron and pour in the hot chicken broth. Season with salt."
+        },
+        {
+          "etape": "4",
+          "description": "Let it cook over medium heat without stirring for about 18-20 minutes. The rice should absorb all the liquid. If necessary, add a bit more broth."
+        },
+        {
+          "etape": "5",
+          "description": "When the rice is cooked and the liquid is absorbed, remove the pan from the heat and let the paella rest for 5 minutes before serving."
+        }
+      ],
+      "trucs": [
+        "Variations: You can add seafood (shrimp, mussels) or snails for an even more authentic taste.",
+        "Cooking: Make sure not to stir the rice too much during cooking to achieve a crispy crust (socarrat) at the bottom of the pan."
+      ],
+      "note": "The Paella Valenciana is one of the most traditional variants of the famous paella. This dish is a symbol of Spanish cuisine, originating from the Valencia region."
+    },
+
+
+
+    "gaspacho": {
+    "titre": "Gaspacho",
+    "servir": "Serves 4",
+    "ingredients": [
+      "6 ripe tomatoes",
+      "1 cucumber",
+      "1 bell pepper (red or green)",
+      "1 small onion",
+      "2 cloves of garlic",
+      "3 tablespoons of olive oil",
+      "Salt to taste",
+      "Water (optional, to adjust consistency)",
+      "Fresh basil or parsley for garnish (optional)"
+    ],
+    "instructions": [
+      {
+        "etape": "1",
+        "description": "Wash all the vegetables. Cut the tomatoes, cucumber, bell pepper, and onion into chunks."
+      },
+      {
+        "etape": "2",
+        "description": "In a blender, combine the chopped tomatoes, cucumber, bell pepper, onion, and garlic."
+      },
+      {
+        "etape": "3",
+        "description": "Blend until smooth. If the mixture is too thick, you can add a little water to reach your desired consistency."
+      },
+      {
+        "etape": "4",
+        "description": "Add the olive oil and a pinch of salt to the mixture of vegetables. Then, blend again until you achieve a smooth consistency. Afterward, taste the preparation and adjust the seasoning according to your personal preferences, adding more salt or vinegar if necessary. Once you are satisfied with the flavor, place it in the refrigerator to chill for at least 2 hours before serving."
+      },
+      {
+        "etape": "5",
+        "description": "Serve the gaspacho cold, garnished with fresh basil or parsley if desired."
+      }
+    ],
+    "trucs": [
+      "Variations: You can add a bit of bread for a thicker texture or some diced vegetables for garnish.",
+      "Serving: Gaspacho is best served very cold, making it a refreshing dish for hot days."
+    ],
+    "note": "Gaspacho is a traditional Andalusian dish that showcases the flavors of fresh vegetables. It's healthy, refreshing, and perfect for summer!"
+  },
+
+
+    "fabada": {
+    "title": "Fabada",
+    "servings": "For 4 people",
+    "ingredients": [
+      "500 g of dried white beans (Asturian fabes or similar white beans)",
+      "2 Spanish chorizos",
+      "2 morcillas (blood sausages)",
+      "200 g of salted pork belly",
+      "1 piece of cured ham (approx. 150 g)",
+      "1 onion",
+      "2 garlic cloves",
+      "1 bay leaf",
+      "1 tablespoon of sweet paprika",
+      "Salt to taste",
+      "Water"
+    ],
+    "instructions": [
+      {
+        "step": "1",
+        "description": "The day before, soak the beans in a large bowl of cold water for at least 12 hours. Drain and rinse before using."
+      },
+      {
+        "step": "2",
+        "description": "In a large pot, place the drained beans, chorizo, morcilla, salted pork belly, ham, whole peeled onion, and crushed garlic. Add the bay leaf."
+      },
+      {
+        "step": "3",
+        "description": "Cover with cold water (about 2 to 3 liters) and bring to a boil over medium heat. Once the water starts boiling, lower the heat and simmer gently for about 2 hours, skimming off any foam that forms on the surface."
+      },
+      {
+        "step": "4",
+        "description": "Add the sweet paprika and a bit of salt if necessary. Continue simmering on low heat for another hour, or until the beans are tender and the liquid has reduced into a thick sauce."
+      },
+      {
+        "step": "5",
+        "description": "Before serving, remove the onion, garlic, and bay leaf. Slice the chorizo, morcilla, pork belly, and ham, and serve them with the beans in deep bowls."
+      }
+    ],
+    "tips": [
+      "For an even more flavorful fabada, you can add a bit of saffron or smoked paprika to enhance the flavors.",
+      "If the fabada becomes too thick during cooking, you can add a bit of hot water to adjust the consistency."
+    ],
+    "note": "Fabada Asturiana is a rich and hearty stew, perfect for cold days. It is often served as a main course, accompanied by bread and red wine."
+  },
+
+
+  
+  "Crema": {
+    "title": "Crema Catalana",
+    "servings": "For 4 people",
+    "ingredients": [
+      "500 ml of milk",
+      "4 egg yolks",
+      "100 g of sugar",
+      "20 g of cornstarch",
+      "1 cinnamon stick",
+      "The zest of one lemon (untreated)",
+      "Additional sugar for caramelizing"
+    ],
+    "instructions": [
+      {
+        "step": "1",
+        "description": "In a saucepan, heat the milk with the cinnamon stick and lemon zest. Bring to a gentle boil, then remove from heat and let infuse for 10 minutes."
+      },
+      {
+        "step": "2",
+        "description": "In a bowl, whisk the egg yolks with the sugar until smooth and slightly pale. Add the cornstarch and mix well."
+      },
+      {
+        "step": "3",
+        "description": "Remove the lemon zest and cinnamon stick from the milk. Slowly pour the hot milk over the egg mixture, whisking constantly to prevent the eggs from cooking."
+      },
+      {
+        "step": "4",
+        "description": "Return the mixture to the saucepan and heat over low heat, stirring constantly, until the cream thickens. Do not let it boil to avoid curdling the eggs."
+      },
+      {
+        "step": "5",
+        "description": "Pour the cream into individual ramekins and let cool at room temperature, then refrigerate for at least 2 hours until the cream is set."
+      },
+      {
+        "step": "6",
+        "description": "Before serving, sprinkle a thin layer of sugar on each ramekin and caramelize using a blowtorch or under the oven grill until a golden crust forms."
+      }
+    ],
+    "tips": [
+      "For a more intense flavor, you can add a bit of orange zest along with the lemon zest.",
+      "Use a blowtorch to achieve a perfectly caramelized sugar crust."
+    ],
+    "note": "Crema Catalana is a light dessert with a delicate citrus and cinnamon flavor, perfect for ending a meal on a sweet note."
+  }
+  
+}
+  

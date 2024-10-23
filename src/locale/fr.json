@@ -1,0 +1,236 @@
+{
+    "tortilla": {
+      "titre": "Tortilla",
+      "servir": "Pour 4 personnes",
+      "ingredients": [
+        "4 grandes pommes de terre (environ 800g)",
+        "6 œufs",
+        "1 oignon ( facultatif )",
+        "Huile d'olive",
+        "Sel"
+      ],
+      "instructions": [
+        {
+          "etape": "1",
+          "description": "Préparez les ingrédients : Épluchez les pommes de terre et coupez-les en rondelles ou en petits dés (selon votre préférence). Si vous utilisez un oignon, coupez-le en fines lamelles."
+        },
+        {
+          "etape": "2",
+          "description": "Dans une grande poêle, faites chauffer une bonne quantité d'huile d'olive à feu moyen. Ajoutez les pommes de terre et l'oignon (si utilisé). Salez légèrement. Faites cuire les pommes de terre doucement, en remuant de temps en temps, jusqu'à ce qu'elles soient tendres (environ 15-20 minutes)."
+        },
+        {
+          "etape": "3",
+          "description": "Pendant que les pommes de terre cuisent, battez les œufs dans un grand bol. Ajoutez une pincée de sel."
+        },
+        {
+          "etape": "4",
+          "description": "Une fois les pommes de terre cuites, égouttez-les pour enlever l'excès d'huile et ajoutez-les dans le bol avec les œufs battus. Mélangez délicatement pour bien enrober les pommes de terre d'œufs."
+        },
+        {
+          "etape": "5",
+          "description": "Dans la même poêle (enlevez l'excès d'huile si nécessaire), ajoutez un peu d'huile d'olive et faites chauffer à feu moyen. Versez le mélange de pommes de terre et d'œufs dans la poêle et faites cuire pendant environ 5 minutes, jusqu'à ce que le fond soit bien doré."
+        },
+        {
+          "etape": "6",
+          "description": "Pour retourner la tortilla, placez une grande assiette plate sur la poêle et retournez-la délicatement. Glissez la tortilla de l'assiette dans la poêle pour cuire l'autre côté. Faites cuire encore 3-5 minutes jusqu'à ce que l'autre côté soit doré."
+        },
+        {
+          "etape": "7",
+          "description": "Une fois cuite, retirez la tortilla de la poêle et laissez-la reposer quelques minutes avant de la couper en parts. La tortilla peut être servie chaude, à température ambiante ou froide."
+        }
+      ],
+      "trucs": [
+        "Variantes : Vous pouvez ajouter des poivrons, des épinards, ou même du chorizo pour varier les saveurs.",
+        "Cuisson : La tortilla peut être plus ou moins cuite à l'intérieur selon les préférences, certains l'aiment un peu baveuse."
+      ],
+      "note": "La Tortilla Española est un plat très apprécié en Espagne et dans le monde entier. C'est un excellent choix pour un repas léger, un brunch ou même un apéritif!"
+    },
+
+
+
+    "paella": {
+      "titre": "Paella",
+      "servir": "Pour 4 à 6 personnes",
+      "ingredients": [
+        "300g de riz rond (type bomba)",
+        "600g de morceaux de poulet",
+        "200g de lapin",
+        "150g de haricots verts plats (judías verdes)",
+        "100g de haricots blancs (garrofó)",
+        "1 tomate",
+        "1 poivron rouge",
+        "2 gousses d'ail",
+        "1 pincée de safran",
+        "1 cuillère à café de paprika",
+        "1,2L de bouillon de volaille",
+        "Huile d'olive",
+        "Sel"
+      ],
+      "instructions": [
+        {
+          "etape": "1",
+          "description": "Dans une grande poêle à paella, faites chauffer un peu d'huile d'olive à feu moyen. Faites revenir les morceaux de poulet et de lapin jusqu'à ce qu'ils soient dorés de tous les côtés. Ajoutez les haricots verts et faites-les cuire avec la viande pendant quelques minutes. Ensuite, ajoutez le poivron rouge coupé en lanières et l'ail haché. Faites revenir le tout."
+        },
+        {
+          "etape": "3",
+          "description": "Râpez la tomate et ajoutez-la dans la poêle avec une cuillère à café de paprika. Mélangez bien et laissez cuire quelques minutes."
+        },
+        {
+          "etape": "4",
+          "description": "Ajoutez le riz dans la poêle et mélangez pour bien l'enrober du mélange. Ajoutez le safran et versez le bouillon de volaille chaud. Assaisonnez avec du sel."
+        },
+        {
+          "etape": "5",
+          "description": "Laissez cuire à feu moyen sans remuer pendant environ 18-20 minutes. Le riz doit absorber tout le liquide. Si nécessaire, ajoutez un peu plus de bouillon."
+        },
+        {
+          "etape": "6",
+          "description": "Lorsque le riz est cuit et que le liquide est absorbé, retirez la poêle du feu et laissez reposer la paella pendant 5 minutes avant de servir."
+        }
+      ],
+      "trucs": [
+        "Variantes : Vous pouvez ajouter des fruits de mer (crevettes, moules) ou des escargots pour un goût encore plus authentique.",
+        "Cuisson : Assurez-vous de ne pas trop remuer le riz pendant la cuisson pour obtenir une croûte croustillante (socarrat) au fond de la poêle."
+      ],
+      "note": "La Paella Valenciana est l'une des variantes les plus traditionnelles de la célèbre paella. Ce plat est un symbole de la cuisine espagnole, originaire de la région de Valence."
+    },
+
+
+    
+    "gaspacho": {
+    "titre": "Gaspacho",
+    "servir": "Pour 4 personnes",
+    "ingredients": [
+      "6 tomates mûres",
+      "1 concombre",
+      "1 poivron (rouge ou vert)",
+      "1 petite oignon",
+      "2 gousses d'ail",
+      "3 cuillères à soupe d'huile d'olive",
+      "Sel au goût",
+      "Eau (facultatif, pour ajuster la consistance)",
+      "Basilic frais ou persil pour garnir (facultatif)"
+    ],
+    "instructions": [
+      {
+        "etape": "1",
+        "description": "Laver tous les légumes. Couper les tomates, le concombre, le poivron et l'oignon en morceaux."
+      },
+      {
+        "etape": "2",
+        "description": "Dans un mixeur, combiner les tomates hachées, le concombre, le poivron, l'oignon et l'ail."
+      },
+      {
+        "etape": "3",
+        "description": "Mixer jusqu'à obtenir une texture lisse. Si le mélange est trop épais, vous pouvez ajouter un peu d'eau pour atteindre la consistance désirée."
+      },
+      {
+        "etape": "4",
+        "description": "Ajouter l'huile d'olive et le sel. Mixer à nouveau jusqu'à ce que tout soit bien mélangé et bien mixé. Goûter et ajuster l'assaisonnement si nécessaire. Réfrigérer pendant au moins 2 heures avant de servir."
+      },
+      {
+        "etape": "5",
+        "description": "Servir le gaspacho froid, garni de basilic ou de persil frais si désiré."
+      }
+    ],
+    "trucs": [
+      "Variantes : Vous pouvez ajouter un peu de pain pour une texture plus épaisse ou quelques légumes en dés pour garnir.",
+      "Service : Le gaspacho est meilleur servi très froid, ce qui en fait un plat rafraîchissant pour les journées chaudes."
+    ],
+    "note": "Le Gaspacho est un plat traditionnel andalou qui met en valeur les saveurs des légumes frais. C'est sain, rafraîchissant et parfait pour l'été !"
+  },
+  
+
+  "fabada": {
+  "titre": "Fabada",
+  "servir": "Pour 4 personnes",
+  "ingredients": [
+    "500 g de haricots blancs secs (fabes asturiennes ou haricots blancs similaires)",
+    "2 chorizos espagnols",
+    "2 morcillas (boudins noirs)",
+    "200 g de lard salé",
+    "1 morceau de jambon cru (env. 150 g)",
+    "1 oignon",
+    "2 gousses d'ail",
+    "1 feuille de laurier",
+    "1 cuillère à soupe de paprika doux",
+    "Sel au goût",
+    "Eau"
+  ],
+  "instructions": [
+    {
+      "etape": "1",
+      "description": "La veille, faire tremper les haricots dans un grand bol d'eau froide pendant au moins 12 heures. Égoutter et rincer avant de les utiliser."
+    },
+    {
+      "etape": "2",
+      "description": "Dans une grande casserole, mettre les haricots égouttés, le chorizo, la morcilla, le lard salé, le morceau de jambon, l'oignon entier pelé et l'ail écrasé. Ajouter la feuille de laurier."
+    },
+    {
+      "etape": "3",
+      "description": "Couvrir d'eau froide (environ 2 à 3 litres) et porter à ébullition à feu moyen. Une fois que l'eau commence à bouillir, réduire le feu et laisser mijoter doucement pendant environ 2 heures, en écumant la mousse qui se forme à la surface."
+    },
+    {
+      "etape": "4",
+      "description": "Ajouter le paprika doux et un peu de sel si nécessaire. Poursuivre la cuisson à feu doux pendant encore 1 heure ou jusqu'à ce que les haricots soient tendres et que le liquide ait réduit en une sauce épaisse."
+    },
+    {
+      "etape": "5",
+      "description": "Avant de servir, retirer l'oignon, l'ail et le laurier. Couper les chorizos, la morcilla, le lard et le jambon en morceaux et les servir avec les haricots dans des assiettes profondes."
+    }
+  ],
+  "trucs": [
+    "Pour une fabada encore plus savoureuse, vous pouvez ajouter un peu de safran ou du pimentón (paprika fumé) pour rehausser les saveurs.",
+    "Si la fabada devient trop épaisse pendant la cuisson, vous pouvez ajouter un peu d'eau chaude pour ajuster la consistance."
+  ],
+  "note": "La Fabada Asturiana est un ragoût riche et copieux, idéal pour les journées froides. Elle est souvent servie comme plat principal, accompagnée de pain et de vin rouge."
+  },
+
+
+  
+  "Crema": {
+      "titre": "Crema Catalana",
+      "servir": "Pour 4 personnes",
+      "ingredients": [
+        "500 ml de lait",
+        "4 jaunes d'œufs",
+        "100 g de sucre",
+        "20 g de fécule de maïs (Maïzena)",
+        "1 bâton de cannelle",
+        "Le zeste d'un citron (non traité)",
+        "Sucre supplémentaire pour caraméliser"
+      ],
+      "instructions": [
+        {
+          "etape": "1",
+          "description": "Dans une casserole, chauffer le lait avec le bâton de cannelle et le zeste de citron. Porter à ébullition doucement, puis retirer du feu et laisser infuser pendant 10 minutes."
+        },
+        {
+          "etape": "2",
+          "description": "Dans un bol, fouetter les jaunes d'œufs avec le sucre jusqu'à obtenir un mélange homogène et légèrement blanchâtre. Ajouter la fécule de maïs et bien mélanger."
+        },
+        {
+          "etape": "3",
+          "description": "Retirer le zeste de citron et le bâton de cannelle du lait. Verser lentement le lait chaud sur le mélange d'œufs, en fouettant constamment pour éviter que les œufs ne cuisent."
+        },
+        {
+          "etape": "4",
+          "description": "Remettre le mélange dans la casserole et chauffer à feu doux, en remuant constamment, jusqu'à ce que la crème épaississe. Ne pas faire bouillir pour éviter que les œufs ne coagulent."
+        },
+        {
+          "etape": "5",
+          "description": "Verser la crème dans des ramequins individuels et laisser refroidir à température ambiante, puis réfrigérer pendant au moins 2 heures jusqu'à ce que la crème soit bien prise."
+        },
+        {
+          "etape": "6",
+          "description": "Avant de servir, saupoudrer une fine couche de sucre sur chaque ramequin et caraméliser à l'aide d'un chalumeau ou sous le gril du four jusqu'à obtenir une croûte dorée."
+        }
+      ],
+      "trucs": [
+        "Pour une saveur plus intense, vous pouvez ajouter un peu d'orange avec le zeste de citron.",
+        "Utilisez un chalumeau pour obtenir une croûte de sucre parfaitement caramélisée."
+      ],
+      "note": "La Crema Catalana est un dessert léger avec une saveur délicate d'agrumes et de cannelle, parfait pour finir un repas en douceur."
+    }
+  }
+  

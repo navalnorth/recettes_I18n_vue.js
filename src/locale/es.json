@@ -1,0 +1,237 @@
+{
+    "h1": "¡Recetas Españolas!",
+    "tortilla": {
+      "titre": "Tortilla",
+      "servir": "Para 4 personas",
+      "ingredients": [
+        "4 grandes patatas (aproximadamente 800g)",
+        "6 huevos",
+        "1 cebolla (opcional)",
+        "Aceite de oliva",
+        "Sal"
+      ],
+      "instructions": [
+        {
+          "etape": 1,
+          "description": "Prepara los ingredientes: Pela las patatas y córtalas en rodajas o en pequeños cubos (según tu preferencia). Si usas cebolla, córtala en rodajas finas."
+        },
+        {
+          "etape": 2,
+          "description": "En una sartén grande, calienta una buena cantidad de aceite de oliva a fuego medio. Agrega las patatas y la cebolla (si se utiliza). Sala ligeramente. Cocina las patatas a fuego lento, removiendo de vez en cuando, hasta que estén tiernas (aproximadamente 15-20 minutos)."
+        },
+        {
+          "etape": 3,
+          "description": "Mientras se cocinan las patatas, bate los huevos en un bol grande. Agrega una pizca de sal."
+        },
+        {
+          "etape": 4,
+          "description": "Una vez que las patatas estén cocidas, escúrrelas para quitar el exceso de aceite y agrégalas al bol con los huevos batidos. Mezcla suavemente para cubrir bien las patatas con los huevos."
+        },
+        {
+          "etape": 5,
+          "description": "En la misma sartén (retira el exceso de aceite si es necesario), agrega un poco de aceite de oliva y calienta a fuego medio. Vierte la mezcla de patatas y huevos en la sartén y cocina durante unos 5 minutos, hasta que el fondo esté dorado."
+        },
+        {
+          "etape": 6,
+          "description": "Para voltear la tortilla, coloca un plato grande y plano sobre la sartén y dale la vuelta con cuidado. Desliza la tortilla del plato de nuevo a la sartén para cocinar el otro lado. Cocina durante otros 3-5 minutos hasta que el otro lado esté dorado."
+        },
+        {
+          "etape": 7,
+          "description": "Una vez cocida, retira la tortilla de la sartén y déjala reposar unos minutos antes de cortarla en porciones. La tortilla se puede servir caliente, a temperatura ambiente o fría."
+        }
+      ],
+      "trucs": [
+        "Variantes: Puedes agregar pimientos, espinacas o incluso chorizo para variar los sabores.",
+        "Cocción: La tortilla puede estar más o menos cocida por dentro según las preferencias; algunos la prefieren un poco jugosa."
+      ],
+      "note": "La Tortilla Española es un plato muy apreciado en España y en todo el mundo. ¡Es una excelente opción para una comida ligera, un brunch o incluso un aperitivo!"
+    },
+
+
+
+    "paella": {
+        "titre": "Paella",
+        "servir": "Para 4 a 6 personas",
+        "ingredients": [
+        "300g de arroz redondo (tipo bomba)",
+        "600g de trozos de pollo",
+        "200g de conejo",
+        "150g de judías verdes planas (judías verdes)",
+        "100g de frijoles blancos (garrofó)",
+        "1 tomate",
+        "1 pimiento rojo",
+        "2 dientes de ajo",
+        "1 pizca de azafrán",
+        "1 cucharadita de pimentón",
+        "1,2L de caldo de pollo",
+        "Aceite de oliva",
+        "Sal"
+        ],
+        "instructions": [
+        {
+            "etape": "1",
+            "description": "En una gran paellera, calienta un poco de aceite de oliva a fuego medio. Sofríe los trozos de pollo y conejo hasta que estén dorados por todos lados. Agrega las judías verdes y cocina con la carne durante unos minutos. Luego, añade el pimiento rojo cortado en tiras y el ajo picado. Sofríe todo."
+        },
+        {
+            "etape": "3",
+            "description": "Ralla el tomate y agrégalo a la sartén con una cucharadita de pimentón. Mezcla bien y deja cocinar unos minutos."
+        },
+        {
+            "etape": "4",
+            "description": "Agrega el arroz a la sartén y mezcla para cubrirlo bien con la mezcla. Añade el azafrán y vierte el caldo de pollo caliente. Sazona con sal."
+        },
+        {
+            "etape": "5",
+            "description": "Deja cocinar a fuego medio sin remover durante unos 18-20 minutos. El arroz debe absorber todo el líquido. Si es necesario, añade un poco más de caldo."
+        },
+        {
+            "etape": "6",
+            "description": "Cuando el arroz esté cocido y el líquido absorbido, retira la sartén del fuego y deja reposar la paella durante 5 minutos antes de servir."
+        }
+        ],
+        "trucs": [
+        "Variantes: Puedes agregar mariscos (gambas, mejillones) o caracoles para un sabor aún más auténtico.",
+        "Cocción: Asegúrate de no remover demasiado el arroz durante la cocción para lograr una costra crujiente (socarrat) en el fondo de la sartén."
+        ],
+        "note": "La Paella Valenciana es una de las variantes más tradicionales de la famosa paella. Este plato es un símbolo de la cocina española, originario de la región de Valencia."
+    },
+
+
+
+    "gaspacho": {
+  "titre": "Gaspacho",
+  "servir": "Para 4 personas",
+  "ingredients": [
+    "6 tomates maduros",
+    "1 pepino",
+    "1 pimiento (rojo o verde)",
+    "1 cebolla pequeña",
+    "2 dientes de ajo",
+    "3 cucharadas de aceite de oliva",
+    "Sal al gusto",
+    "Agua (opcional, para ajustar la consistencia)",
+    "Albahaca fresca o perejil para decorar (opcional)"
+  ],
+  "instructions": [
+    {
+      "etape": "1",
+      "description": "Lava todas las verduras. Corta los tomates, el pepino, el pimiento y la cebolla en trozos."
+    },
+    {
+      "etape": "2",
+      "description": "En una licuadora, combina los tomates picados, el pepino, el pimiento, la cebolla y el ajo."
+    },
+    {
+      "etape": "3",
+      "description": "Licúa hasta obtener una textura suave. Si la mezcla es demasiado espesa, puedes añadir un poco de agua para alcanzar la consistencia deseada."
+    },
+    {
+      "etape": "4",
+      "description": "Añade el aceite de oliva y la sal. Licúa de nuevo hasta que todo esté bien mezclado, bien homogeneo y suave. Prueba y ajusta el sazón si es necesario. Refrigera durante al menos 2 horas antes de servir."
+    },
+    {
+      "etape": "5",
+      "description": "Sirve el gaspacho frío, decorado con albahaca o perejil fresco si lo deseas."
+    }
+  ],
+  "trucs": [
+    "Variaciones: Puedes añadir un poco de pan para una textura más espesa o algunos vegetales en cubitos para decorar.",
+    "Servicio: El gaspacho se sirve mejor muy frío, lo que lo convierte en un plato refrescante para los días calurosos."
+  ],
+  "note": "El Gaspacho es un plato tradicional andaluz que destaca los sabores de las verduras frescas. ¡Es saludable, refrescante y perfecto para el verano!"
+},
+
+
+  "fabada": {
+  "titulo": "Fabada Asturiana",
+  "raciones": "Para 4 personas",
+  "ingredientes": [
+    "500 g de fabes secas (fabes asturianas o alubias blancas similares)",
+    "2 chorizos",
+    "2 morcillas",
+    "200 g de panceta salada",
+    "1 trozo de jamón (aprox. 150 g)",
+    "1 cebolla",
+    "2 dientes de ajo",
+    "1 hoja de laurel",
+    "1 cucharada de pimentón dulce",
+    "Sal al gusto",
+    "Agua"
+  ],
+  "instrucciones": [
+    {
+      "paso": "1",
+      "descripcion": "La víspera, poner las fabes en remojo en un bol grande con agua fría durante al menos 12 horas. Escurrir y enjuagar antes de usarlas."
+    },
+    {
+      "paso": "2",
+      "descripcion": "En una cazuela grande, poner las fabes escurridas, los chorizos, las morcillas, la panceta, el trozo de jamón, la cebolla pelada entera y los ajos machacados. Añadir la hoja de laurel."
+    },
+    {
+      "paso": "3",
+      "descripcion": "Cubrir con agua fría (unos 2 o 3 litros) y llevar a ebullición a fuego medio. Cuando comience a hervir, reducir el fuego y dejar cocer a fuego lento durante unas 2 horas, retirando la espuma que se forme en la superficie."
+    },
+    {
+      "paso": "4",
+      "descripcion": "Añadir el pimentón dulce y un poco de sal si es necesario. Continuar la cocción a fuego lento durante 1 hora más, o hasta que las fabes estén tiernas y el líquido haya espesado formando una salsa."
+    },
+    {
+      "paso": "5",
+      "descripcion": "Antes de servir, retirar la cebolla, los ajos y el laurel. Cortar los chorizos, las morcillas, la panceta y el jamón en trozos y servirlos con las fabes en platos hondos."
+    }
+  ],
+  "consejos": [
+    "Para una fabada aún más sabrosa, puedes añadir un poco de azafrán o pimentón ahumado para intensificar los sabores.",
+    "Si la fabada queda demasiado espesa durante la cocción, puedes añadir un poco de agua caliente para ajustar la consistencia."
+  ],
+  "nota": "La Fabada Asturiana es un guiso rico y contundente, ideal para los días fríos. Se suele servir como plato principal, acompañado de pan y vino tinto."
+  }, 
+
+
+  
+  "Crema": {
+    "titulo": "Crema Catalana",
+    "raciones": "Para 4 personas",
+    "ingredientes": [
+      "500 ml de leche",
+      "4 yemas de huevo",
+      "100 g de azúcar",
+      "20 g de maicena",
+      "1 rama de canela",
+      "La cáscara de un limón (sin tratar)",
+      "Azúcar adicional para caramelizar"
+    ],
+    "instrucciones": [
+      {
+        "paso": "1",
+        "descripcion": "En una cacerola, calentar la leche con la rama de canela y la cáscara de limón. Llevar a ebullición suavemente, luego retirar del fuego y dejar reposar durante 10 minutos."
+      },
+      {
+        "paso": "2",
+        "descripcion": "En un bol, batir las yemas de huevo con el azúcar hasta obtener una mezcla homogénea y ligeramente blanquecina. Añadir la maicena y mezclar bien."
+      },
+      {
+        "paso": "3",
+        "descripcion": "Quitar la cáscara de limón y la rama de canela de la leche. Verter lentamente la leche caliente sobre la mezcla de huevos, batiendo constantemente para evitar que los huevos se cuajen."
+      },
+      {
+        "paso": "4",
+        "descripcion": "Poner la mezcla de nuevo en la cacerola y calentar a fuego lento, removiendo constantemente, hasta que la crema espese. No dejar que hierva para evitar que los huevos se cuajen."
+      },
+      {
+        "paso": "5",
+        "descripcion": "Verter la crema en ramequines individuales y dejar enfriar a temperatura ambiente, luego refrigerar durante al menos 2 horas hasta que la crema esté bien cuajada."
+      },
+      {
+        "paso": "6",
+        "descripcion": "Antes de servir, espolvorear una capa fina de azúcar sobre cada ramequín y caramelizar con un soplete o bajo la parrilla del horno hasta obtener una costra dorada."
+      }
+    ],
+    "consejos": [
+      "Para un sabor más intenso, puedes añadir un poco de naranja junto con la cáscara de limón.",
+      "Utiliza un soplete para conseguir una costra de azúcar perfectamente caramelizada."
+    ],
+    "nota": "La Crema Catalana es un postre ligero con un delicado sabor a cítricos y canela, perfecto para terminar una comida con dulzura."
+  }
+}
+  
