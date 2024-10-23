@@ -7,31 +7,31 @@
     <div class="flex justify-center mt-4">
       <button 
         @click="showTortilla" 
-        :class="['px-4 py-2 rounded-t-3xl', activeRecipe === 'tortilla' ? 'bg-orange-200 text-black' : 'bg-orange-100 text-black']"
+        :class="['rounded-t-3xl bouton', activeRecipe === 'tortilla' ? 'bg-orange-200 text-black' : 'bg-orange-100 text-black']"
       >
         Tortilla
       </button>
       <button 
         @click="showPaella" 
-        :class="['px-4 py-2 rounded-t-3xl', activeRecipe === 'paella' ? 'bg-orange-200 text-black' : 'bg-orange-100 text-black']"
+        :class="['rounded-t-3xl bouton', activeRecipe === 'paella' ? 'bg-orange-200 text-black' : 'bg-orange-100 text-black']"
       >
         Paella
       </button>
       <button 
         @click="showGaspacho" 
-        :class="['px-4 py-2 rounded-t-3xl', activeRecipe === 'gaspacho' ? 'bg-orange-200 text-black' : 'bg-orange-100 text-black']"
+        :class="['rounded-t-3xl bouton', activeRecipe === 'gaspacho' ? 'bg-orange-200 text-black' : 'bg-orange-100 text-black']"
       >
         Gaspacho
       </button>
       <button 
         @click="showFabada" 
-        :class="['px-4 py-2 rounded-t-3xl', activeRecipe === 'fabada' ? 'bg-orange-200 text-black' : 'bg-orange-100 text-black']"
+        :class="['rounded-t-3xl bouton', activeRecipe === 'fabada' ? 'bg-orange-200 text-black' : 'bg-orange-100 text-black']"
       >
         Fabada
       </button>
       <button 
         @click="showCremaCatalana" 
-        :class="['px-4 py-2 rounded-t-3xl', activeRecipe === 'cremaCatalana' ? 'bg-orange-200 text-black' : 'bg-orange-100 text-black']"
+        :class="['rounded-t-3xl bouton', activeRecipe === 'cremaCatalana' ? 'bg-orange-200 text-black' : 'bg-orange-100 text-black']"
       >
         Crema Catalana
       </button>
@@ -102,6 +102,10 @@ const showCremaCatalana = () => {
 .taille {
   width: 400px;
   height: 1700px;
+}
+.bouton {
+  padding: 4px 5px;
+  font-size: 13px;
 }
 
 @media screen and (min-width: 990px) {
