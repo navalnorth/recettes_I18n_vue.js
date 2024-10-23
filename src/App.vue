@@ -24,12 +24,6 @@
         Gaspacho
       </button>
       <button 
-        @click="showFabada" 
-        :class="['rounded-t-3xl bouton', activeRecipe === 'fabada' ? 'bg-orange-200 text-black' : 'bg-orange-100 text-black']"
-      >
-        Fabada
-      </button>
-      <button 
         @click="showCremaCatalana" 
         :class="['rounded-t-3xl bouton', activeRecipe === 'cremaCatalana' ? 'bg-orange-200 text-black' : 'bg-orange-100 text-black']"
       >
@@ -41,7 +35,6 @@
       <Tortilla v-if="activeRecipe === 'tortilla'" />
       <Paella v-if="activeRecipe === 'paella'" />
       <Gaspacho v-if="activeRecipe === 'gaspacho'" />
-      <Fabada v-if="activeRecipe === 'fabada'" />
       <CremaCatalana v-if="activeRecipe === 'cremaCatalana'" />
     </div>
   </div>
@@ -66,7 +59,6 @@ import Tortilla from './components/tortilla.vue'
 import { CoFlagFr, CoFlagGb } from '@kalimahapps/vue-icons'
 import Paella from './components/paella.vue'
 import Gaspacho from './components/gaspacho.vue'
-import Fabada from './components/fabada.vue'
 import CremaCatalana from './components/cremaCatalana.vue'
 
 const { locale } = useI18n()
@@ -85,9 +77,6 @@ const showPaella = () => {
 const showGaspacho = () => {
   activeRecipe.value = 'gaspacho'
 }
-const showFabada = () => {
-  activeRecipe.value = 'fabada'
-}
 const showCremaCatalana = () => {
   activeRecipe.value = 'cremaCatalana'
 }
@@ -98,14 +87,16 @@ const showCremaCatalana = () => {
   background-image: url('../src/assets/img/ban.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
+  min-height: 100vh;
 }
 .taille {
-  width: 400px;
-  height: 1700px;
+  width: 370px;
+  min-height: 100vh;
 }
 .bouton {
-  padding: 4px 5px;
-  font-size: 13px;
+  padding: 4px 6px;
+  font-size: 14px;
 }
 
 @media screen and (min-width: 990px) {

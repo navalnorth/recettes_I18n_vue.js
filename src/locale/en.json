@@ -141,56 +141,10 @@
   },
 
 
-    "fabada": {
-    "title": "Fabada",
-    "servings": "For 4 people",
-    "ingredients": [
-      "500 g of dried white beans (Asturian fabes or similar white beans)",
-      "2 Spanish chorizos",
-      "2 morcillas (blood sausages)",
-      "200 g of salted pork belly",
-      "1 piece of cured ham (approx. 150 g)",
-      "1 onion",
-      "2 garlic cloves",
-      "1 bay leaf",
-      "1 tablespoon of sweet paprika",
-      "Salt to taste",
-      "Water"
-    ],
-    "instructions": [
-      {
-        "step": "1",
-        "description": "The day before, soak the beans in a large bowl of cold water for at least 12 hours. Drain and rinse before using."
-      },
-      {
-        "step": "2",
-        "description": "In a large pot, place the drained beans, chorizo, morcilla, salted pork belly, ham, whole peeled onion, and crushed garlic. Add the bay leaf."
-      },
-      {
-        "step": "3",
-        "description": "Cover with cold water (about 2 to 3 liters) and bring to a boil over medium heat. Once the water starts boiling, lower the heat and simmer gently for about 2 hours, skimming off any foam that forms on the surface."
-      },
-      {
-        "step": "4",
-        "description": "Add the sweet paprika and a bit of salt if necessary. Continue simmering on low heat for another hour, or until the beans are tender and the liquid has reduced into a thick sauce."
-      },
-      {
-        "step": "5",
-        "description": "Before serving, remove the onion, garlic, and bay leaf. Slice the chorizo, morcilla, pork belly, and ham, and serve them with the beans in deep bowls."
-      }
-    ],
-    "tips": [
-      "For an even more flavorful fabada, you can add a bit of saffron or smoked paprika to enhance the flavors.",
-      "If the fabada becomes too thick during cooking, you can add a bit of hot water to adjust the consistency."
-    ],
-    "note": "Fabada Asturiana is a rich and hearty stew, perfect for cold days. It is often served as a main course, accompanied by bread and red wine."
-  },
-
-
   
   "Crema": {
-    "title": "Crema Catalana",
-    "servings": "For 4 people",
+    "titre": "Crema Catalana",
+    "servir": "For 4 people",
     "ingredients": [
       "500 ml of milk",
       "4 egg yolks",
@@ -202,31 +156,31 @@
     ],
     "instructions": [
       {
-        "step": "1",
+        "etape": "1",
         "description": "In a saucepan, heat the milk with the cinnamon stick and lemon zest. Bring to a gentle boil, then remove from heat and let infuse for 10 minutes."
       },
       {
-        "step": "2",
+        "etape": "2",
         "description": "In a bowl, whisk the egg yolks with the sugar until smooth and slightly pale. Add the cornstarch and mix well."
       },
       {
-        "step": "3",
+        "etape": "3",
         "description": "Remove the lemon zest and cinnamon stick from the milk. Slowly pour the hot milk over the egg mixture, whisking constantly to prevent the eggs from cooking."
       },
       {
-        "step": "4",
+        "etape": "4",
         "description": "Return the mixture to the saucepan and heat over low heat, stirring constantly, until the cream thickens. Do not let it boil to avoid curdling the eggs."
       },
       {
-        "step": "5",
+        "etape": "5",
         "description": "Pour the cream into individual ramekins and let cool at room temperature, then refrigerate for at least 2 hours until the cream is set."
       },
       {
-        "step": "6",
+        "etape": "6",
         "description": "Before serving, sprinkle a thin layer of sugar on each ramekin and caramelize using a blowtorch or under the oven grill until a golden crust forms."
       }
     ],
-    "tips": [
+    "trucs": [
       "For a more intense flavor, you can add a bit of orange zest along with the lemon zest.",
       "Use a blowtorch to achieve a perfectly caramelized sugar crust."
     ],

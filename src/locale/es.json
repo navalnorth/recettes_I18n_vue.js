@@ -142,57 +142,11 @@
 },
 
 
-  "fabada": {
-  "titulo": "Fabada Asturiana",
-  "raciones": "Para 4 personas",
-  "ingredientes": [
-    "500 g de fabes secas (fabes asturianas o alubias blancas similares)",
-    "2 chorizos",
-    "2 morcillas",
-    "200 g de panceta salada",
-    "1 trozo de jamón (aprox. 150 g)",
-    "1 cebolla",
-    "2 dientes de ajo",
-    "1 hoja de laurel",
-    "1 cucharada de pimentón dulce",
-    "Sal al gusto",
-    "Agua"
-  ],
-  "instrucciones": [
-    {
-      "paso": "1",
-      "descripcion": "La víspera, poner las fabes en remojo en un bol grande con agua fría durante al menos 12 horas. Escurrir y enjuagar antes de usarlas."
-    },
-    {
-      "paso": "2",
-      "descripcion": "En una cazuela grande, poner las fabes escurridas, los chorizos, las morcillas, la panceta, el trozo de jamón, la cebolla pelada entera y los ajos machacados. Añadir la hoja de laurel."
-    },
-    {
-      "paso": "3",
-      "descripcion": "Cubrir con agua fría (unos 2 o 3 litros) y llevar a ebullición a fuego medio. Cuando comience a hervir, reducir el fuego y dejar cocer a fuego lento durante unas 2 horas, retirando la espuma que se forme en la superficie."
-    },
-    {
-      "paso": "4",
-      "descripcion": "Añadir el pimentón dulce y un poco de sal si es necesario. Continuar la cocción a fuego lento durante 1 hora más, o hasta que las fabes estén tiernas y el líquido haya espesado formando una salsa."
-    },
-    {
-      "paso": "5",
-      "descripcion": "Antes de servir, retirar la cebolla, los ajos y el laurel. Cortar los chorizos, las morcillas, la panceta y el jamón en trozos y servirlos con las fabes en platos hondos."
-    }
-  ],
-  "consejos": [
-    "Para una fabada aún más sabrosa, puedes añadir un poco de azafrán o pimentón ahumado para intensificar los sabores.",
-    "Si la fabada queda demasiado espesa durante la cocción, puedes añadir un poco de agua caliente para ajustar la consistencia."
-  ],
-  "nota": "La Fabada Asturiana es un guiso rico y contundente, ideal para los días fríos. Se suele servir como plato principal, acompañado de pan y vino tinto."
-  }, 
-
-
   
   "Crema": {
-    "titulo": "Crema Catalana",
-    "raciones": "Para 4 personas",
-    "ingredientes": [
+    "titre": "Crema Catalana",
+    "servir": "Para 4 personas",
+    "ingredients": [
       "500 ml de leche",
       "4 yemas de huevo",
       "100 g de azúcar",
@@ -201,37 +155,37 @@
       "La cáscara de un limón (sin tratar)",
       "Azúcar adicional para caramelizar"
     ],
-    "instrucciones": [
+    "instructions": [
       {
-        "paso": "1",
-        "descripcion": "En una cacerola, calentar la leche con la rama de canela y la cáscara de limón. Llevar a ebullición suavemente, luego retirar del fuego y dejar reposar durante 10 minutos."
+        "etape": "1",
+        "description": "En una cacerola, calentar la leche con la rama de canela y la cáscara de limón. Llevar a ebullición suavemente, luego retirar del fuego y dejar reposar durante 10 minutos."
       },
       {
-        "paso": "2",
-        "descripcion": "En un bol, batir las yemas de huevo con el azúcar hasta obtener una mezcla homogénea y ligeramente blanquecina. Añadir la maicena y mezclar bien."
+        "etape": "2",
+        "description": "En un bol, batir las yemas de huevo con el azúcar hasta obtener una mezcla homogénea y ligeramente blanquecina. Añadir la maicena y mezclar bien."
       },
       {
-        "paso": "3",
-        "descripcion": "Quitar la cáscara de limón y la rama de canela de la leche. Verter lentamente la leche caliente sobre la mezcla de huevos, batiendo constantemente para evitar que los huevos se cuajen."
+        "etape": "3",
+        "description": "Quitar la cáscara de limón y la rama de canela de la leche. Verter lentamente la leche caliente sobre la mezcla de huevos, batiendo constantemente para evitar que los huevos se cuajen."
       },
       {
-        "paso": "4",
-        "descripcion": "Poner la mezcla de nuevo en la cacerola y calentar a fuego lento, removiendo constantemente, hasta que la crema espese. No dejar que hierva para evitar que los huevos se cuajen."
+        "etape": "4",
+        "description": "Poner la mezcla de nuevo en la cacerola y calentar a fuego lento, removiendo constantemente, hasta que la crema espese. No dejar que hierva para evitar que los huevos se cuajen."
       },
       {
-        "paso": "5",
-        "descripcion": "Verter la crema en ramequines individuales y dejar enfriar a temperatura ambiente, luego refrigerar durante al menos 2 horas hasta que la crema esté bien cuajada."
+        "etape": "5",
+        "description": "Verter la crema en ramequines individuales y dejar enfriar a temperatura ambiente, luego refrigerar durante al menos 2 horas hasta que la crema esté bien cuajada."
       },
       {
-        "paso": "6",
-        "descripcion": "Antes de servir, espolvorear una capa fina de azúcar sobre cada ramequín y caramelizar con un soplete o bajo la parrilla del horno hasta obtener una costra dorada."
+        "etape": "6",
+        "description": "Antes de servir, espolvorear una capa fina de azúcar sobre cada ramequín y caramelizar con un soplete o bajo la parrilla del horno hasta obtener una costra dorada."
       }
     ],
-    "consejos": [
+    "trucs": [
       "Para un sabor más intenso, puedes añadir un poco de naranja junto con la cáscara de limón.",
       "Utiliza un soplete para conseguir una costra de azúcar perfectamente caramelizada."
     ],
-    "nota": "La Crema Catalana es un postre ligero con un delicado sabor a cítricos y canela, perfecto para terminar una comida con dulzura."
+    "note": "La Crema Catalana es un postre ligero con un delicado sabor a cítricos y canela, perfecto para terminar una comida con dulzura."
   }
 }
   
